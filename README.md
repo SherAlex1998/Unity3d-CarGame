@@ -11,11 +11,17 @@
 
 **Управление**
 D - газ
+
 A - переключение на реверс и газ
+
 Пробел - тормоз
+
 L - включение фар
+
 F - прыжок
+
 Машинку можно перетаскивать, зажимая кнопку мыши.
+
 
 ================================================
 
@@ -29,8 +35,13 @@ Sound and visual effects are applied to the machine, as well as the physics of t
 
 **Controls**
 D-gas
+
 A-switching to reverse and gas
+
 Space-brake
+
 L - turning on the headlights
+
 F-jump
+
 You can drag the typewriter by holding down the mouse button.
