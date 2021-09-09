@@ -27,7 +27,7 @@ Sound and visual effects are applied to the machine, as well as the physics of t
 * C#
 * Unity3d 2020.2.7
 
-**Management**
+**Controls**
 D-gas
 A-switching to reverse and gas
 Space-brake
